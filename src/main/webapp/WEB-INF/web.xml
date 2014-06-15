@@ -42,6 +42,12 @@
   </filter-mapping>
  -->
 
+<jsp-config>
+	<taglib>
+		<taglib-uri>http://java.sun.com/jstl/core</taglib-uri>
+		<taglib-location>/WEB-INF/c.tld</taglib-location>
+	</taglib>
+</jsp-config>
   <welcome-file-list>
     <welcome-file>index.jsp</welcome-file>
   </welcome-file-list>

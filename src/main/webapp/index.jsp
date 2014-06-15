@@ -1,9 +1,9 @@
 <html>
 <body>
 <h2>Hello World!</h2>
-
-<form action="/manageAction.do" method="post">
+<a href="pages/administration.jsp">Administration </a>
+<!-- <form action="/manageAction.do" method="post">
 	<input type="submit" value="Administration">
-</form>
+</form> -->
 </body>
 </html>
